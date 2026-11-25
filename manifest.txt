@@ -1,0 +1,6 @@
+version | 1
+-------------
+\\ EXTRACT | pulsebase.zip
+@ "*.jar" | to ".pulseclient\profile\mods\preinstalled"
+@ "options.txt" | to ".pulseclient\profile"
+! "config" | to ".pulseclient\profile"
